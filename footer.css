@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+  }
+   
+  footer {
+    background-color: rgb(109, 109, 207);
+    height: 200px;
+  }
+   
+  h2 {
+    margin: 10;
+  }
